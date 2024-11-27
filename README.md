@@ -1,0 +1,2 @@
+
+This repository contains a synthetic ITSM dataset and analysis code for incident management. The project focuses on forecasting incident counts using time-series models (SARIMAX) and predicting incident priorities with machine learning models such as SVM and Random Forest. The dataset is preprocessed for consistency, with properly formatted time columns and daily incident aggregation for time-series analysis. This work aims to improve IT service processes through data-driven insights and predictions.
